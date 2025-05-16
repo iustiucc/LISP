@@ -41,5 +41,3 @@ MY-LIST
 ### Author
 
 [ iustiucc ]
-
------
